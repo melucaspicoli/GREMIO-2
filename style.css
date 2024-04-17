@@ -1,5 +1,6 @@
 h1 {
-    background-color: lightblue;
+    background-color: rgb(107, 177, 202);
+    background-position: center;
     color: blue;
 }
 
@@ -11,4 +12,11 @@ a {
 
 display: block;
 
+}
+
+#TORCEDORCHORANDO {
+    border-color: black;
+    border-width: 8px;
+    border-style: solid;
+    margin-left: 500px;
 }
